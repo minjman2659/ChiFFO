@@ -18,8 +18,9 @@
 
 | 날짜  | 범위                                                               | 유소연 | 김민재 | 김태일 |
 | ----- | ------------------------------------------------------------------ | ------ | ------ | ------ |
-| 10/20 | [기본타입](https://typescript-kr.github.io/pages/basic-types.html) |        |        |        |
-| 10/20 |                                                                    |        |        |        |
+| 10/20 | [TS for new programmer](https://typescript-kr.github.io/pages/tutorials/ts-for-the-new-programmer.html) |        |        |        |
+| | [TS for JS programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html) |        |        |        |
+| | [TS for OOP programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html) |        |        |        |
 
 <br/>
 

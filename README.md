@@ -4,8 +4,8 @@
 
 - 매일 저녁 8시 ~ 10시 (최대 2시간)
 - 불참하는 경우 전날 미리 이야기하기
-- 화면 켜라~~~!
-- 먼저 취업한 사람 맛있는거 사주세요ㅎ
+- 화면 켜고 스터디 진행하기
+- 먼저 취업한 사람이 맛있는거 쏘기
 
 <br/>
 
@@ -18,7 +18,7 @@
 
 | 날짜  | 범위                                                               | 유소연 | 김민재 | 김태일 |
 | ----- | ------------------------------------------------------------------ | ------ | ------ | ------ |
-| 10/20 | [TS for new programmer](https://typescript-kr.github.io/pages/tutorials/ts-for-the-new-programmer.html) |        |        |        |
+| 10/20 | [TS for new programmer](https://typescript-kr.github.io/pages/tutorials/ts-for-the-new-programmer.html) |[🔗 정리](https://codingduck.tistory.com/81)        |        |        |
 | | [TS for JS programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html) |        |        |        |
 | | [TS for OOP programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html) |        |        |        |
 

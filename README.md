@@ -12,7 +12,7 @@
 <pr>
   
   ## 1. TypeScript 스터디
-  (https://typescript-kr.github.io/)
+  [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
   - 매일 범위 정해서 블로깅하고 공유하기 
   <br/>
 
@@ -44,7 +44,7 @@
 <br/>
 
 ## 3. 기술 면접 대비
-(https://codestates.notion.site/codestates/ver-2-ab925a6ad6614eba9d97d29e0ea8763d)
+[[예상] 기술 면접 질문 리스트 ver. 2](https://codestates.notion.site/codestates/ver-2-ab925a6ad6614eba9d97d29e0ea8763d)
 - 기술 면접 질문 전에 면접관이 인성 면접 질문 1개 던지기 (번호는 랜덤하게)  
 - 매일 2문제
 - 하루에 2명 발표, 1명 면접관

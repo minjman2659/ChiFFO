@@ -44,7 +44,7 @@
 <br/>
 
 ## 3. 기술 면접 대비
-
+(https://codestates.notion.site/codestates/ver-2-ab925a6ad6614eba9d97d29e0ea8763d)
 - 기술 면접 질문 전에 면접관이 인성 면접 질문 1개 던지기 (번호는 랜덤하게)  
 - 매일 2문제
 - 하루에 2명 발표, 1명 면접관

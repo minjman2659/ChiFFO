@@ -18,7 +18,7 @@
 
 | 날짜  | 범위                                                               | 유소연 | 김민재 | 김태일 |
 | ----- | ------------------------------------------------------------------ | ------ | ------ | ------ |
-| 10/20 | [TS for new programmer](https://typescript-kr.github.io/pages/tutorials/ts-for-the-new-programmer.html) |[🔗 정리](https://codingduck.tistory.com/81)        |        |        |
+| 10/20 | [TS for new programmer](https://typescript-kr.github.io/pages/tutorials/ts-for-the-new-programmer.html) |[🔗 정리](https://codingduck.tistory.com/81)        |[📋Bloging](https://minjman2659.notion.site/TypeScript-b2a2976da5f943429bbd5d3c6a7a8296)|        |
 | | [TS for JS programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html) |        |        |        |
 | | [TS for OOP programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html) |        |        |        |
 

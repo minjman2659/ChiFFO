@@ -22,7 +22,7 @@
 | | [TS for JS programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html) |        |[📋Bloging](https://minjman2659.notion.site/interface-4b98ae65d4fc46a5ab9fb15bce7e86f0)|        |
 | | [TS for OOP programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html) |        |        |        |
 |10/21| [TS for Functional programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-functional-programmers.html) |        |        |        |
-| | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |        |        |  
+| | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |[📋Bloging](https://minjman2659.notion.site/TypeScript-7ccb15c2e2714293925a31650e46b639)|        |  
 
 <br/>
 

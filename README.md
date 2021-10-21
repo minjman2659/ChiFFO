@@ -22,7 +22,8 @@
 | | [TS for JS programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-js-programmers.html) |        |[📋Bloging](https://minjman2659.notion.site/interface-4b98ae65d4fc46a5ab9fb15bce7e86f0)|        |
 | | [TS for OOP programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-oopers.html) |        |        |        |
 |10/21| [TS for Functional programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-functional-programmers.html) |        |        |        |
-| | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |[📋Bloging](https://minjman2659.notion.site/TypeScript-7ccb15c2e2714293925a31650e46b639)|    [Blog](https://velog.io/@edan_3000/TypeScript-TS-for-functional-Programmers)    |  
+| | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |[📋Bloging](https://minjman2659.notion.site/TypeScript-7ccb15c2e2714293925a31650e46b639)|[Blog](https://velog.io/@edan_3000/TypeScript-TS-for-functional-Programmers)|
+| 10/22 | [기본 타입](https://typescript-kr.github.io/pages/basic-types.html)||||
 
 <br/>
 
@@ -39,7 +40,7 @@
 | ------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ | ------- |
 | 10/20   | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)<br/>[우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | ✅ | ✅ | ✅ |
 | 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|✅|
-| 테스트1 | 테스트2                                                                          | 테스트3                                                                                                                                                                    |
+| 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|
 
 <br/>
 
@@ -56,5 +57,6 @@
   | ----- | ------ | ------ | ------------------------------------------------------------------------------------------------------------------------ |
   | 10/20 | 유소연 | NodeJS | [1. nodejs가 무엇인가요? 어디에 사용할 수 있나요? [김민재]](https://minjman2659.notion.site/nodejs-0226785ced914c12ba49e7f4d156f682) <br/>[2. 다른 개발환경이 아닌 nodejs 를 사용해야 하는 장점이 무엇인가요? [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS%EA%B8%B0%EC%B4%88.md)|
   | 10/21 | 김민재 | NodeJS | 3. 왜 nodejs 는 single-threaded 인가요? [유소연] <br />4. nodejs에서 callback을 설명해 보세요 [김태일]|
+  | 10/22 | 김태일 |Data Structure| 1. array vs linkedlist 비교해서 설명해 보세요 [유소연] <br />2. stack vs queue 비교해서 설명해 주세요[김민재]|
  
 </pr>

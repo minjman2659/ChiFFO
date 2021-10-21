@@ -38,7 +38,7 @@
 | 날짜    | JS 알고리즘 문제                                                                    | SQL 문제                                                                                                                                                                   | 유소연  | 김민재 | 김태일  |
 | ------- | -------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- | ------ | ------- |
 | 10/20   | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)<br/>[우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | ✅ | ✅ | ✅ |
-| 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|  |
+| 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|✅|
 | 테스트1 | 테스트2                                                                          | 테스트3                                                                                                                                                                    |
 
 <br/>

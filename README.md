@@ -56,7 +56,7 @@
   | 날짜  | 면접관 | 주제   | 문제  |
   | ----- | --------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
   | 10/20 | 유소연 | NodeJS | [1. nodejs가 무엇인가요? 어디에 사용할 수 있나요? [김민재]](https://minjman2659.notion.site/nodejs-0226785ced914c12ba49e7f4d156f682) <br/>[2. 다른 개발환경이 아닌 nodejs 를 사용해야 하는 장점이 무엇인가요? [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS%EA%B8%B0%EC%B4%88.md)|
-  | 10/21 | 김민재 | NodeJS | [3. 왜 nodejs 는 single-threaded 인가요? [유소연] <br />4. nodejs에서 callback을 설명해 보세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS-ST%2Ccallback.md)|
+  | 10/21 | 김민재 | NodeJS | 3. 왜 nodejs 는 single-threaded 인가요? [유소연] <br />[4. nodejs에서 callback을 설명해 보세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS-ST%2Ccallback.md)|
   | 10/22 | 김태일 | Data Structure | 1. array vs linkedlist 비교해서 설명해 보세요 [유소연] <br />2. stack vs queue 비교해서 설명해 주세요 [김민재]|
  
 </pr>

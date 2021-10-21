@@ -1,4 +1,4 @@
-// https://programmers.co.kr/learn/courses/30/lessons/62284
+-- https://programmers.co.kr/learn/courses/30/lessons/62284
 
 SELECT DISTINCT CART_ID
 FROM CART_PRODUCTS

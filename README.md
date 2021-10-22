@@ -24,7 +24,8 @@
 |10/21| [TS for Functional programmers](https://typescript-kr.github.io/pages/tutorials/ts-for-functional-programmers.html) |        |        |        |
 | | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |[📋Bloging](https://minjman2659.notion.site/TypeScript-7ccb15c2e2714293925a31650e46b639)|[Blog](https://velog.io/@edan_3000/TypeScript-TS-for-functional-Programmers)|
 | 10/22 | [기본 타입](https://typescript-kr.github.io/pages/basic-types.html)|[🔗정리](https://codingduck.tistory.com/82)|[📋Bloging](https://minjman2659.notion.site/TypeScript-05940a290def446d8343cb84b0324346)|[Blog](https://velog.io/@edan_3000/TypeScript-%EA%B8%B0%EB%B3%B8%ED%83%80%EC%9E%85)|
-
+| 10/26 | [인터페이스](https://typescript-kr.github.io/pages/interfaces.html)| | | |
+  
 <br/>
 
 ## 2. 코딩 테스트 대비 (JS, SQL)
@@ -41,6 +42,7 @@
 | 10/20   | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)<br/>[우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | ✅ | ✅ | ✅ |
 | 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|✅|
 | 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|✅|✅|✅|
+| 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br/>[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)| | | |
 
 <br/>
 

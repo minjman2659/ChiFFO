@@ -42,7 +42,7 @@
 | 10/20   | [숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [없어진 기록 찾기](https://programmers.co.kr/learn/courses/30/lessons/59042)<br/>[우유와 요거트가 담긴 장바구니](https://programmers.co.kr/learn/courses/30/lessons/62284) | ✅ | ✅ | ✅ |
 | 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|✅|
 | 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|✅|✅|✅|
-| 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br/>[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)| | | |
+| 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br/>[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)| |🔼| |
 
 <br/>
 
@@ -60,6 +60,6 @@
   | 10/20 | 유소연 | NodeJS | [1. nodejs가 무엇인가요? 어디에 사용할 수 있나요? [김민재]](https://minjman2659.notion.site/nodejs-0226785ced914c12ba49e7f4d156f682) <br/>[2. 다른 개발환경이 아닌 nodejs 를 사용해야 하는 장점이 무엇인가요? [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS%EA%B8%B0%EC%B4%88.md)|
   | 10/21 | 김민재 | NodeJS | [3. 왜 nodejs 는 single-threaded 인가요? [유소연]](https://soyouandi.notion.site/NodeJS-04bfcb5d2dab495fa8c21c68c628fc62) <br />[4. nodejs에서 callback을 설명해 보세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS-ST%2Ccallback.md)|
   | 10/22 | 김태일 | Data Structure | 1. array vs linkedlist 비교해서 설명해 보세요 [유소연] <br />[2. stack vs queue 비교해서 설명해 주세요 [김민재]](https://minjman2659.notion.site/stack-vs-queue-c5b23217cca94aac832f3ba11a488044)|
-  | 10/26 | 유소연 | HTTP | 1. HTTP reqeust에는 어떤 것들이 있나요? 리스트업 해 주시고 설명해 주세요 [김태일] <br />2. 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가? [김민재]|
+  | 10/26 | 유소연 | HTTP | 1. HTTP reqeust에는 어떤 것들이 있나요? 리스트업 해 주시고 설명해 주세요 [김태일] <br />[2. 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가? [김민재]](https://minjman2659.notion.site/URL-bb26ec52746e4e4887a79c7ccaa7a1b9)|
  
 </pr>

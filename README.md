@@ -62,7 +62,7 @@
   | 10/20 | 유소연 | NodeJS | [1. nodejs가 무엇인가요? 어디에 사용할 수 있나요? [김민재]](https://minjman2659.notion.site/nodejs-0226785ced914c12ba49e7f4d156f682) <br/>[2. 다른 개발환경이 아닌 nodejs 를 사용해야 하는 장점이 무엇인가요? [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS%EA%B8%B0%EC%B4%88.md)|
   | 10/21 | 김민재 | NodeJS | [3. 왜 nodejs 는 single-threaded 인가요? [유소연]](https://soyouandi.notion.site/NodeJS-04bfcb5d2dab495fa8c21c68c628fc62) <br />[4. nodejs에서 callback을 설명해 보세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/NodeJS/NodeJS-ST%2Ccallback.md)|
   | 10/22 | 김태일 | Data Structure | [1. array vs linkedlist 비교해서 설명해 보세요 [유소연]](https://soyouandi.notion.site/array-vs-linked-list-2a5afe4dd4664ac5a9eb5e5ce9748c6e) <br />[2. stack vs queue 비교해서 설명해 주세요 [김민재]](https://minjman2659.notion.site/stack-vs-queue-c5b23217cca94aac832f3ba11a488044)|
-  | 10/26 | 유소연 | HTTP | 1. HTTP reqeust에는 어떤 것들이 있나요? 리스트업 해 주시고 설명해 주세요 [김태일] <br />[2. 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가? [김민재]](https://minjman2659.notion.site/URL-bb26ec52746e4e4887a79c7ccaa7a1b9)|
+  | 10/26 | 유소연 | HTTP | [1. HTTP reqeust에는 어떤 것들이 있나요? 리스트업 해 주시고 설명해 주세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/HTTP/http.md) <br />[2. 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가? [김민재]](https://minjman2659.notion.site/URL-bb26ec52746e4e4887a79c7ccaa7a1b9)|
   | 10/27 | 김민재 | Cloud Infra | 1. 왜 배포(deploy) 가 중요한가요? 웹개발자가 알아야 하는 이유가 무엇일까요? [유소연] <br />2. 사용해 본 클라우드 인프라 서비스에 대해 소개해 주세요 [김태일]|
  
 </pr>

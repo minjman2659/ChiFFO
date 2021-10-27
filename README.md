@@ -44,7 +44,7 @@
 | 10/21   | [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)<br/>[동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |✅|✅|✅|
 | 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|✅|✅|✅|
 | 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)|✅|✅|✅|
-| 10/27 |[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)<br/>[오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)||||
+| 10/27 |[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)<br/>[오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)|||✅|
 
 <br/>
 

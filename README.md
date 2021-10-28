@@ -46,7 +46,7 @@
 | 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|✅|✅|✅|
 | 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)|✅|✅|✅|
 | 10/27 |[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)<br/>[오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)|🔼|✅|✅|
-| 10/29 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)<br/>[헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)||||
+| 10/29 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)<br/>[헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)||✅||
 
 <br/>
 

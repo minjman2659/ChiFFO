@@ -27,6 +27,7 @@
 | 10/26 | [인터페이스](https://typescript-kr.github.io/pages/interfaces.html)|[🔗 정리](https://codingduck.tistory.com/83) |[📋Bloging](https://minjman2659.notion.site/interface-4b98ae65d4fc46a5ab9fb15bce7e86f0#e2e4ba0e6ab4406993472b83ead22cc3)|[Blog](https://velog.io/@edan_3000/TypeScript-Interface-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC)|
 | 10/27 | [함수](https://typescript-kr.github.io/pages/functions.html)|[🔗 정리](https://codingduck.tistory.com/84) |[📋Bloging](https://minjman2659.notion.site/7417526efea9449a911b866f2a74974e)|[Blog](https://velog.io/@edan_3000/TypeScript-function-type)|
 | 10/29 |<복 습><br/>[함수](https://typescript-kr.github.io/pages/functions.html)<br/>[인터페이스](https://typescript-kr.github.io/pages/interfaces.html)||||
+| 11/01 |[클래스](https://typescript-kr.github.io/pages/classes.html)|[]()|[]()|[]()|
   
 <br/>
 
@@ -46,7 +47,8 @@
 | 10/22 |[거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)|[있었는데요 없었습니다](https://programmers.co.kr/learn/courses/30/lessons/59043)<br/>[이름에 el이 들어가는 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59047)|✅|✅|✅|
 | 10/26 |[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036)<br/>[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406)<br/>[입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412)|✅|✅|✅|
 | 10/27 |[순위 검색](https://programmers.co.kr/learn/courses/30/lessons/72412)|[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410)<br/>[오랜 기간 보호한 동물(1)](https://programmers.co.kr/learn/courses/30/lessons/59044)|🔼|✅|✅|
-| 10/29 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)<br/>[헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)||✅|🔼|
+| 10/29 |[후보키](https://programmers.co.kr/learn/courses/30/lessons/42890)|[중성화 여부 파악하기](https://programmers.co.kr/learn/courses/30/lessons/59409)<br/>[헤비 유저가 소유한 장소](https://programmers.co.kr/learn/courses/30/lessons/77487)|🔼|✅|✅|
+| 11/01 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)<br/>[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)<br/>[중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408)<br/>[입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413)<br/>[보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)||||
 
 <br/>
 
@@ -67,5 +69,6 @@
   | 10/26 | 유소연 | HTTP | [1. HTTP reqeust에는 어떤 것들이 있나요? 리스트업 해 주시고 설명해 주세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/HTTP/http.md) <br />[2. 브라우저에 URL을 입력하고 요청한 페이지를 볼때까지 어떤 일이 일어나는가? [김민재]](https://minjman2659.notion.site/URL-bb26ec52746e4e4887a79c7ccaa7a1b9)|
   | 10/27 | 김민재 | Cloud Infra | 1. 왜 배포(deploy) 가 중요한가요? 웹개발자가 알아야 하는 이유가 무엇일까요? [유소연] <br />2. 사용해 본 클라우드 인프라 서비스에 대해 소개해 주세요 [김태일]|
   | 10/29 | 김태일 | Back-End | 1. Restful api 란? 사용 시 장점과 단점은? [유소연] <br />2. session - cookie 방식과 토큰 방식의 차이점에 대해 이야기해보세요 [김민재]|
+  | 11/01 | 유소연 | Database | 1. 왜 database를 사용해야 하는가요? [김민재] <br />2. SQL vs NoSQL 에 대해 설명해 주세요 어떤 목적으로 어떤 database type이 유리할까요? [김태일]|
  
 </pr>

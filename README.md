@@ -25,7 +25,7 @@
 | | [5분 안에 보는 TypeScript](https://typescript-kr.github.io/pages/tutorials/typescript-in-5-minutes.html) |        |[📋Bloging](https://minjman2659.notion.site/TypeScript-7ccb15c2e2714293925a31650e46b639)|[Blog](https://velog.io/@edan_3000/TypeScript-TS-for-functional-Programmers)|
 | 10/22 | [기본 타입](https://typescript-kr.github.io/pages/basic-types.html)|[🔗 정리](https://codingduck.tistory.com/82)|[📋Bloging](https://minjman2659.notion.site/TypeScript-05940a290def446d8343cb84b0324346)|[Blog](https://velog.io/@edan_3000/TypeScript-%EA%B8%B0%EB%B3%B8%ED%83%80%EC%9E%85)|
 | 10/26 | [인터페이스](https://typescript-kr.github.io/pages/interfaces.html)|[🔗 정리](https://codingduck.tistory.com/83) |[📋Bloging](https://minjman2659.notion.site/interface-4b98ae65d4fc46a5ab9fb15bce7e86f0#e2e4ba0e6ab4406993472b83ead22cc3)|[Blog](https://velog.io/@edan_3000/TypeScript-Interface-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC)|
-| 10/27 | [함수](https://typescript-kr.github.io/pages/functions.html)|[🔗 정리](https://codingduck.tistory.com/84) |[]()|[Blog](https://velog.io/@edan_3000/TypeScript-function-type)|
+| 10/27 | [함수](https://typescript-kr.github.io/pages/functions.html)|[🔗 정리](https://codingduck.tistory.com/84) |[📋Bloging](https://minjman2659.notion.site/7417526efea9449a911b866f2a74974e)|[Blog](https://velog.io/@edan_3000/TypeScript-function-type)|
 | 10/29 |<복 습><br/>[함수](https://typescript-kr.github.io/pages/functions.html)<br/>[인터페이스](https://typescript-kr.github.io/pages/interfaces.html)||||
   
 <br/>

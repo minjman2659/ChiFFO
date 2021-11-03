@@ -71,6 +71,6 @@
   | 10/27 | 김민재 | Cloud Infra | [1. 왜 배포(deploy) 가 중요한가요? 웹개발자가 알아야 하는 이유가 무엇일까요? [유소연]](https://soyouandi.notion.site/09c20907d3384eed91b5dce2683fe27d) <br />2. 사용해 본 클라우드 인프라 서비스에 대해 소개해 주세요 [김태일]|
   | 10/29 | 김태일 | Back-End | 1. Restful api 란? 사용 시 장점과 단점은? [유소연] <br />[2. session - cookie 방식과 토큰 방식의 차이점에 대해 이야기해보세요 [김민재]](https://minjman2659.notion.site/session-cookie-eafcabc1320b460bbab40dfd3e1f562a)|
   | 11/01 | 유소연 | Database | [1. 왜 database를 사용해야 하는가요? [김민재]](https://minjman2659.notion.site/database-a6b149e113b947789b0b659ee97d3a88) <br />2. SQL vs NoSQL 에 대해 설명해 주세요 어떤 목적으로 어떤 database type이 유리할까요? [김태일]|
-  | 11/04 | 김민재 | Database | 1. closure에 대해 설명해 주시고 example이 있다면 이야기해 주세요 [김태일] <br />2. js에서 this란 무엇이고 어디에 사용되나요 [유소연]|
+  | 11/04 | 김민재 | JavaScript | 1. closure에 대해 설명해 주시고 example이 있다면 이야기해 주세요 [김태일] <br />2. js에서 this란 무엇이고 어디에 사용되나요 [유소연]|
  
 </pr>

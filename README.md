@@ -27,7 +27,7 @@
 | 10/26 | [인터페이스](https://typescript-kr.github.io/pages/interfaces.html)|[🔗 정리](https://codingduck.tistory.com/83) |[📋Bloging](https://minjman2659.notion.site/interface-4b98ae65d4fc46a5ab9fb15bce7e86f0#e2e4ba0e6ab4406993472b83ead22cc3)|[Blog](https://velog.io/@edan_3000/TypeScript-Interface-%EA%B0%9C%EB%85%90%EC%A0%95%EB%A6%AC)|
 | 10/27 | [함수](https://typescript-kr.github.io/pages/functions.html)|[🔗 정리](https://codingduck.tistory.com/84) |[📋Bloging](https://minjman2659.notion.site/7417526efea9449a911b866f2a74974e)|[Blog](https://velog.io/@edan_3000/TypeScript-function-type)|
 | 10/29 |<복 습><br/>[함수](https://typescript-kr.github.io/pages/functions.html)<br/>[인터페이스](https://typescript-kr.github.io/pages/interfaces.html)||||
-| 11/01 |[클래스](https://typescript-kr.github.io/pages/classes.html)|[]()|[]()|[]()|
+| 11/01 |[클래스](https://typescript-kr.github.io/pages/classes.html)|[🔗 정리](https://soyouandi.notion.site/TypeScript-Class-dd2d1b1b48a94470a401d35e4916996e)|[]()|[]()|
   
 <br/>
 

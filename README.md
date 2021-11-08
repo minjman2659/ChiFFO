@@ -51,6 +51,7 @@
 | 11/01 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)<br/>[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)<br/>[중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408)<br/>[입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413)<br/>[보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)|✅|✅|🔼|
 | 11/04 |[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411)<br/>[동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)|✅|✅|✅|
 | 11/08 |[[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)<br/>[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)<br/>[여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)<br/>[상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)||✅||
+| 11/09 |[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)<br/>[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|졸업!||||
 
 <br/>
 

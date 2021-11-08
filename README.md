@@ -73,6 +73,6 @@
   | 10/29 | 김태일 | Back-End | [1. Restful api 란? 사용 시 장점과 단점은? [유소연]](https://soyouandi.notion.site/Restful-api-f8d0e7d0f789445d8f7c124c7336d0dd) <br />[2. session - cookie 방식과 토큰 방식의 차이점에 대해 이야기해보세요 [김민재]](https://minjman2659.notion.site/session-cookie-eafcabc1320b460bbab40dfd3e1f562a)|
   | 11/01 | 유소연 | Database | [1. 왜 database를 사용해야 하는가요? [김민재]](https://minjman2659.notion.site/database-a6b149e113b947789b0b659ee97d3a88) <br />[2. SQL vs NoSQL 에 대해 설명해 주세요 어떤 목적으로 어떤 database type이 유리할까요? [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/DB/sql%2Cnosql.md)|
   | 11/04 | 김민재 | JavaScript | 1. closure에 대해 설명해 주시고 example이 있다면 이야기해 주세요 [김태일] <br />2. js에서 this란 무엇이고 어디에 사용되나요 [유소연]|
-  | 11/08 | 김태일 | Development | 10. 어떤 코드가 좋은 코드인가요? 본인이 생각하는 clean code 란? [김민재] <br />12. 팀으로 개발할때 지향하는 자신만의 특징? [유소연]|
+  | 11/08 | 김태일 | Development | [10. 어떤 코드가 좋은 코드인가요? 본인이 생각하는 clean code 란? [김민재]](https://minjman2659.notion.site/clean-code-915470905dac4ae4aa2631de84430267) <br />12. 팀으로 개발할때 지향하는 자신만의 특징? [유소연]|
  
 </pr>

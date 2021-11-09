@@ -51,7 +51,8 @@
 | 11/01 |[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065)<br/>[수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)|[어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037)<br/>[중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408)<br/>[입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413)<br/>[보호소에서 중성화한 동물](https://programmers.co.kr/learn/courses/30/lessons/59045)|✅|✅|🔼|
 | 11/04 |[[1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677)|[오랜 기간 보호한 동물(2)](https://programmers.co.kr/learn/courses/30/lessons/59411)<br/>[동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403)|✅|✅|✅|
 | 11/08 |[[1차] 프렌즈4블록](https://programmers.co.kr/learn/courses/30/lessons/17679)<br/>[[1차] 캐시](https://programmers.co.kr/learn/courses/30/lessons/17680)|[DATETIME에서 DATE로 형 변환](https://programmers.co.kr/learn/courses/30/lessons/59414)<br/>[여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404)<br/>[상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405)||✅||
-| 11/09 |[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)<br/>[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|졸업!||✅|✅|
+| 11/09 |[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)<br/>[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|졸업!|✅|✅|✅|
+| 11/11 |[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br/>[[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)|||||
 
 <br/>
 
@@ -76,5 +77,6 @@
   | 11/04 | 김민재 | JavaScript | [1. closure에 대해 설명해 주시고 example이 있다면 이야기해 주세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/JavaScript/closure.md) <br />2. js에서 this란 무엇이고 어디에 사용되나요 [유소연]|
   | 11/08 | 김태일 | Development | [10. 어떤 코드가 좋은 코드인가요? 본인이 생각하는 clean code 란? [김민재]](https://minjman2659.notion.site/clean-code-915470905dac4ae4aa2631de84430267) <br />12. 팀으로 개발할때 지향하는 자신만의 특징? [유소연]|
   | 11/09 | 유소연 | Data Structure | 3. HashTable을 설명하고 사용 예를 말씀해 주세요 [김민재] <br />5. 54321 배열을 12345로 정렬 할 때 어떤 sort를 쓰겠는가. 왜? [김태일]|
+  | 11/11 | 김민재 | Network | 1. OSI 7, 5 layer 네트워크 에 대해서 들어보셨다면 설명해 주시겠어요 [] <br />2. CDN의 장점과 단점에 대해 알고 계신가요 [김태일]|
  
 </pr>

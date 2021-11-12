@@ -54,6 +54,7 @@
 | 11/09 |[[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682)<br/>[[3차] n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687)|졸업!|✅|✅|✅|
 | 11/11 |[[1차] 비밀지도](https://programmers.co.kr/learn/courses/30/lessons/17681)<br/>[[3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)||✅|✅|🔼|
 | 11/12 |[크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)||✅|✅|✅|
+| 11/16 |[불량 사용자](https://programmers.co.kr/learn/courses/30/lessons/64064)<br/>[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)<br/>[삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)|||||
 
 <br/>
 

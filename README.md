@@ -78,7 +78,7 @@
   | 11/04 | 김민재 | JavaScript | [1. closure에 대해 설명해 주시고 example이 있다면 이야기해 주세요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/JavaScript/closure.md) <br />2. js에서 this란 무엇이고 어디에 사용되나요 [유소연]|
   | 11/08 | 김태일 | Development | [10. 어떤 코드가 좋은 코드인가요? 본인이 생각하는 clean code 란? [김민재]](https://minjman2659.notion.site/clean-code-915470905dac4ae4aa2631de84430267) <br />[12. 팀으로 개발할때 지향하는 자신만의 특징? [유소연]](https://soyouandi.notion.site/3b6853a21673485ebd96438dd498d592)|
   | 11/09 | 유소연 | Data Structure | [3. HashTable을 설명하고 사용 예를 말씀해 주세요 [김민재]](https://minjman2659.notion.site/HashTable-Dictionary-HashMap-40b679a86f1c4543935d123be99d0338) <br />5. 54321 배열을 12345로 정렬 할 때 어떤 sort를 쓰겠는가. 왜? [김태일]|
-  | 11/11 | 김민재 | Network | 1. OSI 7, 5 layer 네트워크 에 대해서 들어보셨다면 설명해 주시겠어요 [유소연] <br />2. CDN의 장점과 단점에 대해 알고 계신가요 [김태일]|
+  | 11/11 | 김민재 | Network | 1. OSI 7, 5 layer 네트워크 에 대해서 들어보셨다면 설명해 주시겠어요 [유소연] <br />[2. CDN의 장점과 단점에 대해 알고 계신가요 [김태일]](https://github.com/james-taeil/TIL/blob/main/Interview/Network/CDN.md)|
   | 11/12 | 김태일 | Database | 5. database indexing이란 무엇이며 왜 하는가요? [김민재] <br />6. transaction 이란 무엇이며 언제 사용하는가 [유소연]|
  
 </pr>

@@ -7,6 +7,8 @@
 - 화면 켜고 스터디 진행하기
 - 먼저 취업한 사람이 맛있는거 쏘기
 
+## 참고 ([Tech Interview](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html))
+
 <br/>
 
 <pr>

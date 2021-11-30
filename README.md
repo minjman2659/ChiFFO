@@ -9,17 +9,13 @@
 
 <br/>
 
-## 참고 ([Tech Interview](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html))
-
-<br/>
-
 <pr>
   
 ## 1. 프로그래밍 스터디
 ### 1) JS 스터디
-책 : 코어 자바스크립트, 모던 자바스크립트(Deep Dive)
+책 : [코어 자바스크립트](http://www.yes24.com/Product/Goods/78586788), [모던 자바스크립트(Deep Dive)](https://ko.javascript.info/)
 - 매주 목요일마다 한명의 팀원이 하나의 챕터 발표 진행
-<br/>
+
   
 ### 2) DB 스터디
 - 매주 화요일마다 한명의 팀원이 하나의 챕터 발표 진행
@@ -69,6 +65,8 @@
 ## 3. 기술 면접 대비
 
 [[예상] 기술 면접 질문 리스트 ver. 2](https://codestates.notion.site/codestates/ver-2-ab925a6ad6614eba9d97d29e0ea8763d)
+  
+참고 ([Tech Interview](https://gyoogle.dev/blog/guide/%EB%A9%B4%EC%A0%91%20%EC%A4%80%EB%B9%84.html))
 
 - 기술 면접 질문 전에 면접관이 인성 면접 질문 1개 던지기 (번호는 랜덤하게)
 - 매일 2문제

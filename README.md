@@ -58,7 +58,7 @@
 | 11/24 | [이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129)                                                                                                                                                              |                                                                                                                                                                                                                                                                                                                                       | ✅     |    ✅   |   ✅   |
 | 11/26 | [징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)<br/>[배달](https://programmers.co.kr/learn/courses/30/lessons/12978) |                                                                                        |  🔼   | ✅    |    🔼   |
 | 11/29 | [단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)|                                                                                     |  ✅   |  ✅  |   ✅   |
-| 12/01 | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)|     |||
+| 12/01 | [거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907)|  ✅   |✅|✅|
 | 12/02 | [풍선 터뜨리기](https://programmers.co.kr/learn/courses/30/lessons/68646)   |     | | |
 
 <br/>

@@ -23,3 +23,4 @@ function solution(genres, plays) {
 
   return result;
 }
+// Mac Test

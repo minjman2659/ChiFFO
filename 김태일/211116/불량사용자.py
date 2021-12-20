@@ -15,11 +15,17 @@ def isCheck(user, banned_id):
 def solution(user_id, banned_id):
     answer = []
     userPermutation = permutations(user_id, len(banned_id))
-    
+
     for user in userPermutation:
         if isCheck(user, banned_id):
             user = set(user)
+            print(user)
+            print(answer)
             if user not in answer:
                 answer.append(user)
         
     return len(answer)
+
+user_id = ["frodo", "fradi", "crodo", "abc123", "frodoc"]
+banned_id = ["fr*d*", "*rodo", "******", "******"]
+print(solution(user_id, banned_id))

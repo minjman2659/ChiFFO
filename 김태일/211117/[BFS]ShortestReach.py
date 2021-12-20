@@ -24,7 +24,6 @@ def bfs(n, m, edges, s):
             answer.append(dist[i])
             
     return answer
-
 n = 5
 m = 3
 edges = [[1,2],[1,3],[3,4]]

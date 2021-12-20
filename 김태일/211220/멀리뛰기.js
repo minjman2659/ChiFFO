@@ -7,4 +7,4 @@ const solution = (n) => {
 }
 
 // 점화식 문제
-// n = n1 + n2;
+// n = n1 + n2\

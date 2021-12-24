@@ -19,6 +19,7 @@ const solution = (s) => {
     }
 
     // 길이가 3이상 팰린드롬
+    
     for(let i = 3; i <= stringLength; i++) {
         for(let start = 0; start <= stringLength - i; start++) {
             const end = start + i - 1;
